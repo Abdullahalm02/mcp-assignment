@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "personal-productivity": {
+      "command": "/absolute/path/to/mcp-assignment/venv/bin/python",
+      "args": [
+        "/absolute/path/to/mcp-assignment/server.py"
+      ]
+    }
+  }
+}
