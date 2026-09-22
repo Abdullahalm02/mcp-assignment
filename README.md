@@ -160,7 +160,7 @@ by the assignment. Sources used as reference:
 | `security.py` (sanitization functions, `RateLimiter` class) | Original code written for this assignment — no external source |
 | `server.py` business logic (task/email storage, tool/prompt bodies) | Original code written for this assignment — no external source |
 
-## This is an individual assignment
+## AI citation
 
 All code was written/reviewed by the author with AI assistant help as
 permitted and required by the assignment instructions; the author can
