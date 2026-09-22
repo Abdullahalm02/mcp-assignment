@@ -6,8 +6,6 @@ A local MCP server (Python, `mcp` SDK) exposing two tools and a prompt
 in the **Personal Productivity** domain: task tracking and email
 drafting.
 
-![Architecture diagram](docs/architecture.svg)
-
 ## What it exposes
 
 | Type   | Name                | Description                                                         |
